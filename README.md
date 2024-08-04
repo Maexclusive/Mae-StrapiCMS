@@ -32,6 +32,13 @@ npm run build
 yarn build
 ```
 
+#  Getting started with Swagger
+
+```
+https://127.0.0.1/documentation
+```
+
+
 ## ⚙️ Deployment
 
 Strapi gives you many possible deployment options for your project including [Strapi Cloud](https://cloud.strapi.io). Browse the [deployment section of the documentation](https://docs.strapi.io/dev-docs/deployment) to find the best solution for your use case.
