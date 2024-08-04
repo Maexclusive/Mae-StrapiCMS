@@ -39,6 +39,13 @@ https://127.0.0.1/documentation
 ```
 
 
+# API Token For FrontEnd Authorization
+
+```
+c077dad5878966887cab47d6aa003600dc1ebe6cc86a51704e03bf3b48a0d07d72328fe15eb512a7416457c1537593e5cc91730d89cb3c4c41cdf2f2896a7c07ac89cbedcf7b22979fcf1573b05c5da078c24a8194eb8d1e226cb555ce51fe7181d786191c86a6f3e0e6e624b2155cd503f9eaa074d1715169e7502eb421fe79
+```
+
+
 ## ⚙️ Deployment
 
 Strapi gives you many possible deployment options for your project including [Strapi Cloud](https://cloud.strapi.io). Browse the [deployment section of the documentation](https://docs.strapi.io/dev-docs/deployment) to find the best solution for your use case.
